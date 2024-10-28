@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/de_shoucang"
+        android:icon="@drawable/shoucang"
+        android:title="收藏"/>
+    <item
+        android:id="@+id/de_up"
+        android:icon="@drawable/edit"
+        android:title="编辑"/>
+    <item
+        android:id="@+id/de_del"
+        android:icon="@drawable/delete"
+        android:title="删除"/>
+</menu>
